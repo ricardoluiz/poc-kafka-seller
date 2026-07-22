@@ -10,3 +10,5 @@ $ git clone https://github.com/ricardoluiz/poc-kafka-seller.git
 $ mvn clean install
 $ mvn spring-boot:run
 ```
+
+- validado
